@@ -1,0 +1,26 @@
+.sitename-position{
+	margin-top: 30px;
+}
+.menu-position{
+  margin-top:20px;
+}
+.categories-line{
+	border-top-width: 10px;
+}
+.content-addons{
+	margin-top: 15px;
+}
+
+.img-content{
+	width: 100%;
+}
+.unvisible-horizontal-line{
+  border:none;
+}
+
+.credits-position{
+  padding: 20px 0 40px;
+}
+.footer-separator{
+  border-top-width: 10px;	
+}
